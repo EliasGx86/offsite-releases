@@ -1,0 +1,17 @@
+name: I wish Offsite could…
+description: A feature, a change, or something that felt harder than it should be.
+title: "[idea] "
+labels: [enhancement]
+body:
+  - type: textarea
+    id: wish
+    attributes:
+      label: What would you like?
+      description: "One or two sentences is plenty. Say what you were trying to do when you wished for it."
+    validations:
+      required: true
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Which computer?
+      options: [Windows, Mac, Both]
