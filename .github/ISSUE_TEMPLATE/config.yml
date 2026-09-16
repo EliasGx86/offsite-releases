@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Email instead
+    url: mailto:elias.gomez@live.com
+    about: No GitHub account? Email works just as well.
+  - name: Buying, refunds, license questions
+    url: https://offsiteapp.cloud/refunds
+    about: 14 days, no questions asked.
